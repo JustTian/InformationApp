@@ -21,6 +21,8 @@
     if (self) {
         // Custom initialization
     }
+    
+    NSLog(@"test");
     return self;
 }
 
